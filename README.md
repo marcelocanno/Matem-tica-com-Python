@@ -1,1 +1,2 @@
-# Matem-tica-com-Python
+# Matematica-com-Python
+## Praticando matemática com Python.
